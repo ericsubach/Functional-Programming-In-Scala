@@ -1,4 +1,4 @@
-object Fibonacci
+object Exercise1
 {
    def fib(aNum: Int): Int =
    {
